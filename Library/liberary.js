@@ -1,4 +1,4 @@
-
+// نیازی به add کردن در پروژه نیست
 var cityInput = document.getElementById("cityInput");
 var addInput = document.getElementById("send");
 var cityOutput = document.getElementById("cityoutput");
